@@ -8,10 +8,10 @@ We specialize in crafting stunning, high-performance mobile applications for iOS
 
 ## 🚀 What We Do
 
-- **Custom Mobile App Development**:Tailored solutions that meet your unique business needs
-- **Cross-Platform Expertise**:Seamless applications for both iOS and Android
-- **User-Centric Design**:Intuitive interfaces that enhance user engagement
-- **Performance Optimization**:Apps that are fast, responsive, and reliable
+- **Custom Mobile App Development**: Tailored solutions that meet your unique business needs
+- **Cross-Platform Expertise**: Seamless applications for both iOS and Android
+- **User-Centric Design**: Intuitive interfaces that enhance user engagement
+- **Performance Optimization**: Apps that are fast, responsive, and reliable
 
 ---
 
