@@ -2,7 +2,7 @@
 
 **Transforming Ideas Into Digital Reality**
 
-We specialize in crafting stunning, high-performance mobile applications for iOS and Android platforms. Our mission is to turn your innovative ideas into engaging digital experiences that captivate users and drive tangible results.
+We specialize in crafting stunning, high-performance mobile applications for iOS and Android platforms. Our mission is to turn your innovative ideas into engaging digital experiences that captivate users and drive tangible results.
 
 ---
 
